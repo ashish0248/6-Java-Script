@@ -10,7 +10,7 @@ var js_hand = make_jshand();
 
 var match_result = result(user_hand, js_hand);
 
-alert('あなたが出した手は、'+ user_hand + 'です。\njsが出した手は'+ js_hand + 'です。\n結果はあなたの'+ match_result + 'です。');
+alert('あなたが出した手は、'+ user_hand + 'です。\njsが出した手は '+ js_hand + 'です。\n結果はあなたの'+ match_result + 'です。');
 
 
 }
