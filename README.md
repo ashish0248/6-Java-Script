@@ -1,2 +1,2 @@
 ## 6-Java-Script
-aa
+practice java
