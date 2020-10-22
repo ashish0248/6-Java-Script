@@ -1,5 +1,5 @@
-var max = 100;
-var num = 1;
+var max = 10;
+var num = 11;
 var count = 0;
 
 while (num <= max){
